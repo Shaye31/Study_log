@@ -111,7 +111,7 @@ public class Main() {
 ### 15表格插入
 |  姓名  | 年龄 | 性别 |
 |:----:|:-:|:-:|
-| 邬金科  |200|男|
+| 吴  |200|男|
 | 人员D  |20000000|男|
 | 人员A  |211|男|
 
@@ -125,7 +125,7 @@ public class Main() {
 2. >有些网站，比如像Github、知乎、简书等，它们就无法设置这种功能。不过像有的网站，比如像CSDN，它的Markdown编辑器做了很好的扩展、支持HTML语法，就有这样的功能  
 3. <img style="width: 600px;height: 400px" src="https://s2.loli.net/2024/04/19/8xWlPnisEgJKQVb.jpg">
 
-<zzzziframe src="//player.bilibili.com/player.html?aid=1252624739&bvid=BV1eJ4m157kC&cid=1489709802&p=10" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="500px" weigh="1000px"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=1252624739&bvid=BV1eJ4m157kC&cid=1489709802&p=10" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="500px" weigh="1000px"> </iframe>
 
 
 ### 17 其他扩展语法
